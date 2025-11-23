@@ -1,0 +1,27 @@
+name: cavewars_things
+version: '1.0'
+main: io.mainframe.cavewars_things.Main
+api-version: "1.21.8"
+depend: ["Multiverse-Core"]
+commands:
+  cwmv:
+    description: "CaveWars MultiVerse handler.
+
+    Usage: /cwmv <action>
+
+    (c) As simple as it could get :)"
+    usage: "Usage: /cwmv <action>"
+  cwtest:
+    description: "CaveWars Testing commands.
+
+    Usage: /cwtest <action>
+
+    (c) As simple as it could get :)"
+    usage: "Usage: /cwtest <action>"
+  cwui:
+    description: "MENU!
+
+    Usage: /cwui
+
+    (c) As simple as it could get :)"
+    usage: "Usage: /cwui"
