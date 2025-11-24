@@ -1,7 +1,7 @@
 name: cavewars_things
 version: '1.0'
 main: io.mainframe.cavewars_things.Main
-api-version: "1.21.8"
+api-version: "1.21.10"
 depend: ["Multiverse-Core"]
 commands:
   cwmv:
