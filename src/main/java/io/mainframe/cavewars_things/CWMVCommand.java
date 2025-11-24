@@ -188,7 +188,7 @@ public class CWMVCommand implements CommandExecutor {
                 }
             }
 
-            default -> sender.sendMessage("Unknown action: "+action);
+            default -> sender.sendMessage("иди нахуй нет такой команды action: "+action);
         }
 
         return true;
